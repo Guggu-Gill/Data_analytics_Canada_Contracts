@@ -4,7 +4,6 @@
 
 I used AWS Glue ETL, S3, and Tableau to create a dashboard on 1 trillion dollars' worth of Canadian federal contracts.
 Observations-
-1. 43B $ worth aircrafts 🛫 were bought followed by 27B$ ⛴️of boats, out of 273B$ in defence contracts. 
-2. Majority of contracts were issued to Canadian Corps(or foreign companies operating in Canada)🇨🇦 amounting 570B$.
-3. Just 24B$ federal contracts goes to Health🏥 and Education 📚 in last 100 years, seems like university CAPEX expenditure is outside this dataset.
-4. Not even single defence contract goes to Russia🇷🇺 whereas China🇨🇳 & India 🇮🇳 bags some of those.
+1. Aircraft worth $43B 🛫 were purchased, followed by $27B ⛴️ in boats, as part of $273B in defense contracts.
+2. The majority of contracts, totaling $570B, were awarded to Canadian companies or foreign companies operating in Canada 🇨🇦. Only $24B in federal contracts have been allocated to health 🏥 and education 📚 over the past 100 years.
+3. Not a single defense contract was awarded to Russia 🇷🇺, whereas China 🇨🇳 and India 🇮🇳 received some.
